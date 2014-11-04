@@ -154,7 +154,8 @@ a:after {
 /* Header Wrap */
 #headerwrap {
 /*	background: url(../img/header-bg.jpg) no-repeat center top;*/
-  background: url(../img/resized_powercat.png) no-repeat center top;
+ /* background: url(../img/crossword.png) repeat center top;*/
+    background: #2f2f2f
 	margin-top: 60px;
 	padding-top:140px;
 	text-align:center;
@@ -176,12 +177,12 @@ a:after {
 
 #headerwrap h1 {
 	font-size: 80px;
-	color: white;
+	color: black;
 }
 
 #headerwrap h3 {
 	font-size: 20px;
-	color: white;
+	color: #0C2032;
 }
 
 /* Intnro Wrap */
